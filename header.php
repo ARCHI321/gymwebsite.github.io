@@ -30,27 +30,7 @@
              
         </div>
     </header>
-    <div class="container">
-        <h1>Join The best gym of Kolkata</h1>
-        <form action="noaction.php">
-            <div class="form-group">
-                <input type="text name="" placeholder="Enter your name">
-            </div>
-            <div class="form-group">
-                <input type="text name="" placeholder="Enter your age">
-            </div>
-            <div class="form-group">
-                <input type="text name="" placeholder="Enter your gender">
-            </div>
-            <div class="form-group">
-                <input type="text name="" placeholder="Enter your locality">
-            </div>
-            <button class="btn1">Submit</button>
-        </form>
-    </div>
-
-    <footer class="footer">
-        <p>This is Copyright restricted &#169;</p>
-    </footer>
+    
+    
 </body>
 </html>
