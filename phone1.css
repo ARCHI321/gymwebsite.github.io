@@ -1,0 +1,13 @@
+.right{
+    display: grid;
+    right: -130px;
+}
+
+.header{
+    width: fit-content;
+}
+
+.mid{
+    margin: 12px 203px;
+    width: 36%;
+}
