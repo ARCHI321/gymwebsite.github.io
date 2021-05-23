@@ -56,5 +56,8 @@ body{
     background-color: black;
     height: 41%;
     padding: 2px;
-    width: 118%;
+    width: 186%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
