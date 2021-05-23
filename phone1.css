@@ -1,3 +1,7 @@
+body{
+    background: url('gym1.jpeg') center center/cover no-repeat; 
+}
+
 .right{
     display: grid;
     right: -130px;
@@ -10,4 +14,46 @@
 .mid{
     margin: 12px 203px;
     width: 36%;
+}
+
+.navbar li {
+    padding-bottom: 26px;
+}
+
+.form-group input {
+    width: 355px;
+}
+
+.container {
+    margin: 119px 112px;
+    padding: 75px 75px;
+    width: 50%;
+    border-radius: 28px;
+    border: 2px solid white;
+}
+
+
+.form-group input {
+    width: 224px;
+}
+
+
+.btn1 {
+    margin: 0px 9px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    width: 100px;
+    padding: 13px 13px;
+    font-weight: bold;
+    display: block;
+    width: 35%;
+    margin: 20px auto;
+}
+
+.footer {
+    background-color: black;
+    height: 41%;
+    padding: 2px;
+    width: 118%;
 }
